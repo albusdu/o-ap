@@ -44,7 +44,7 @@ const Home = () => {
           {/* social */}
           <section>
             <h4>Social:</h4>
-
+            {/* 
             <a href={facebook()}>
               <Button
                 title='Facebook'
@@ -71,7 +71,7 @@ const Home = () => {
                 title='LinkedIn'
                 image={`${URL_WEB}/images/social/linkedin.svg`}
               />
-            </a>
+            </a> */}
 
             <a href={twitter()}>
               <Button
